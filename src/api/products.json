@@ -1,0 +1,114 @@
+[
+    {
+      "id": 1,
+      "title": "Kabak",
+      "image": "https://cdn.getir.com/product/kabak_5ced48314a8a2a000137dab3.png",
+      "alt": "500 g",
+      "price": 39.99
+    },
+    {
+      "id": 2,
+      "title": "Salkım Domates",
+      "image": "https://cdn.getir.com/product/salkimdomates_5bbb749e3310ad3271d7e05b.png",
+      "alt": "600 g",
+      "price": 32.99
+    },
+    {
+      "id": 3,
+      "title": "Kuzeyden",
+      "image": "https://cdn.getir.com/product/5a7b20fd8e19da0004bb27f8_tr_1615375864268.jpeg",
+      "alt": "1.5 L",
+      "price": 2.95
+    },
+    {
+      "id": 4,
+      "title": "Magnum Karadut",
+      "image": "https://market-product-images-cdn.getirapi.com/product/41277982-b5de-4b80-88f6-b85503a21136.jpg",
+      "alt": "95 ml",
+      "price": 39.99
+    },
+    {
+      "id": 5,
+      "title": "Tadelle",
+      "image": "https://cdn.getir.com/product/5cb8e2daff9117000171adde_1557759373714.jpeg?v=1557759378282",
+      "alt": "52 g",
+      "price": 30.30
+    },
+    {
+      "id": 6,
+      "title": "Çilekli Donut",
+      "image": "https://market-product-images-cdn.getirapi.com/product/66246f58-2048-4c30-b109-94e867201169.jpg",
+      "alt": "60 g",
+      "price": 57.60
+    },
+    {
+      "id": 7,
+      "title": "Brokoli",
+      "image": "https://cdn.getir.com/product/brokoli_5f8ebf4923d8754099929218.png",
+      "alt": "500 g",
+      "price": 39.99
+    },
+    {
+      "id": 8,
+      "title": "Patates",
+      "image": "https://cdn.getir.com/product/patates2kg_5c9235bad0222600018b999a.png",
+      "alt": "2 kg",
+      "price": 64.99
+    },
+    {
+      "id": 9,
+      "title": "Lay's Mevsim Yeşillikli",
+      "image": "https://cdn.getir.com/product/5bc97aabb137fb001d751ac7_tr_1609123518121.jpeg",
+      "alt": "96 g",
+      "price": 6.36
+    },
+    {
+      "id": 10,
+      "title": "Eti Canga",
+      "image": "https://cdn.getir.com/product/5f3538dc71a71226677fba17_tr_1624437105104.jpeg",
+      "alt": "45 g",
+      "price": 2.85
+    },
+    {
+      "id": 11,
+      "title": "Kuzeyden",
+      "image": "https://cdn.getir.com/product/5a7b20fd8e19da0004bb27f8_tr_1615375864268.jpeg",
+      "alt": "1.5 L",
+      "price": 2.95
+    },
+    {
+      "id": 12,
+      "title": "Kızılay Erzincan",
+      "image": "https://cdn.getir.com/product/60018c5bca2126d84459c47f_tr_1610788125046.jpeg",
+      "alt": "6 x 200 ml",
+      "price": 5.90
+    },
+    {
+      "id": 13,
+      "title": "Lime",
+      "image": "https://cdn.getir.com/product/2_lime3_lu_5ce6581cfd9b330001c4a889.png",
+      "alt": "3 Adet",
+      "price": 44.99
+    },
+    {
+      "id": 14,
+      "title": "Yaban Mersini ",
+      "image": "https://cdn.getir.com/product/yabanmersini_5e6752bc9769bdd390e9bd43.png",
+      "alt": "125 g",
+      "price": 64.99
+    },
+    {
+      "id": 15,
+      "title": "Magnum Badem",
+      "image": "https://cdn.getir.com/product/559fec01f462100c00461d5c_tr_1618323765236.jpeg",
+      "alt": "100 ml",
+      "price": 7.50
+    },
+    {
+      "id": 16,
+      "title": "İçim %3 Yağlı Süt",
+      "image": "https://cdn.getir.com/product/5ced482d4a8a2a000137da6d_tr_1623652387464.jpeg",
+      "alt": "1 L",
+      "price": 7.95
+    }
+]
