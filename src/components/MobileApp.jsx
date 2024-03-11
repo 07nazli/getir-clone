@@ -1,6 +1,6 @@
 export default function MobileApp() {
   return (
-    <div className="bg-[#5d3ebc] flex justify-between items-center bg-mobile-app h-50 mt-7 rounded-lg text-white">
+    <div className="bg-[#5d3ebc] flex justify-between items-center bg-mobile-app h-50 rounded-lg text-white">
       <div className="flex flex-col gap-y-3 p-10">
         <h3 className="text-xl font-bold tracking-tight">Getir'i indir!</h3>
         <p className="font-semibold ">İstediğiniz ürünleri dakikalar içinde kapınıza <br />getirelim.</p>
